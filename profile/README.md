@@ -1,8 +1,8 @@
-# ⚙️ VAY Systems
+# ☁️ VayCloud
 
 **Minimal Infra. Maximum Speed.**
 
-VAY Systems builds ultra-low latency infrastructure for the real world — from the kernel up.
+VAY builds ultra-low latency infrastructure for the real world — from the kernel up.
 
 We design systems for:
 

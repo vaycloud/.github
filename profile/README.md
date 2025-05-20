@@ -1,8 +1,8 @@
-# ☁️ VayCloud
+# VayZur
 
 **Minimal Infra. Maximum Speed.**
 
-VAY builds ultra-low latency infrastructure for the real world — from the kernel up.
+VayZur builds ultra-low latency infrastructure for the real world — from the kernel up.
 
 We design systems for:
 
@@ -17,20 +17,19 @@ We design systems for:
 - ⚡ Performance-focused tunnels using eBPF/XDP
 
 > Everything we build runs close to the metal.  
-> `zero up` and you're live.
 
 ---
 
-#### 🌀 VAY Philosophy
+#### 🌀 VayZur Philosophy
 
 - Minimalism is power  
 - Latency is everything  
-- Control every nanosecond  
+- Control every microsecond 
 
 We don’t chase throughput. We chase precision.
 
 ---
 
 📡 From Tehran to Tokyo,  
-VAY makes infrastructure feel local.
+VayZur makes infrastructure feel local.
 
